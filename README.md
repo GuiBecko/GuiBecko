@@ -16,16 +16,6 @@ Organização de estoque, separação de pedidos e apoio logístico.
 
 • Inglês – Fluente
 
-## Competências e Qualidades
-
-• Proatividade
-
-• Organização
-
-• Trabalho em equipe
-
-• Comunicação clara
-
 ## Linguagens de programação
 
 • Javascript
