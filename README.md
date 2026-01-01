@@ -1,30 +1,26 @@
-# Hi there 👋
+# Hi there, My name is Guilherme 👋
+<b> Software engineering student at UDESC -  SC - Brazil 🇧🇷 </b>
 
-Meu nome é GUILHERME BECKER
-Estudante de Análise e Desenvolvimento de Sistemas
+<img src="https://i.pinimg.com/originals/ff/34/3a/ff343aa8819c2573ad3409baf4af5e3e.gif">
 
-## Formação Acadêmica
+## 🧑‍💼 Professional Experience
 
-• Análise e Desenvolvimento de Sistemas – Universidade do Estado de Santa Catarina (UDESC) – Em andamento
+• Logistics Assistant – Top Prime Suplementos <br>
+Stock managment, order preparing and logistic support 
 
-## Experiência Profissional
+## 🌎 Idioms
 
-• Auxiliar de Logística – Top Prime Suplementos
-Organização de estoque, separação de pedidos e apoio logístico.
+• English - Fluent <br>
+• Portuguese - Native <br>
 
-## 🌎 Idiomas
+## 💻 Programming Languages
 
-• Inglês – Fluente
+• Javascript <br>
+• Pyhon <br>
+• C <br>
+• C++ <br>
 
-## Linguagens de programação
+## 💻 Other technolgies
 
-• Javascript
-• Pyhon
-• C
-• C++
-
-Outras tecnologias
-
-• HTML 5
-• Jira
+• HTML 5 <br>
 • CSS
