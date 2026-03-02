@@ -8,6 +8,9 @@
 • Logistics Assistant – Top Prime Suplementos <br>
 Stock managment, order preparing and logistic support 
 
+• IT Intern at KROMI Logistics
+Data analysis, logistic support
+
 ## 🌎 Idioms
 
 • English - Fluent <br>
