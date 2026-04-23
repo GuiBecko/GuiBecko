@@ -9,7 +9,10 @@
 Stock managment, order preparing and logistic support 
 
 • IT Intern at KROMI Logistics <br>
-Data analysis, logistic support
+Logistic support
+
+• Data Analyst Intern at Livon clinic <br>
+Business Inteligence and creating dashboards
 
 ## 🌎 Idioms
 
@@ -21,7 +24,7 @@ Data analysis, logistic support
 • Javascript <br>
 • Pyhon <br>
 • C <br>
-• C++ <br>
+• Java <br> 
 
 ## 💻 Other technolgies
 
