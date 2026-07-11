@@ -13,6 +13,7 @@ Logistic support
 
 • Data Analyst Intern at Livon clinic <br>
 Business Inteligence and creating dashboards
+Fullstack Development using Django, Vue and React
 
 ## 🌎 Idioms
 
@@ -25,8 +26,3 @@ Business Inteligence and creating dashboards
 • Pyhon <br>
 • C <br>
 • Java <br> 
-
-## 💻 Other technolgies
-
-• HTML 5 <br>
-• CSS
