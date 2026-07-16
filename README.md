@@ -12,7 +12,7 @@ Stock managment, order preparing and logistic support
 Logistic support
 
 • Data Analyst Intern at Livon clinic <br>
-Business Inteligence and creating dashboards
+Business Inteligence and creating dashboards <br>
 Fullstack Development using Django, Vue and React
 
 ## 🌎 Idioms
