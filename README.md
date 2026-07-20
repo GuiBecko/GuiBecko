@@ -23,6 +23,6 @@ Fullstack Development using Django, Vue and React
 ## 💻 Programming Languages
 
 • Javascript <br>
-• Pyhon <br>
+• Python <br>
 • C <br>
 • Java <br> 
