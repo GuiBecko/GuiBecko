@@ -5,14 +5,8 @@
 
 ## 🧑‍💼 Professional Experience
 
-• Logistics Assistant – Top Prime Suplementos <br>
-Stock managment, order preparing and logistic support 
-
-• IT Intern at KROMI Logistics <br>
-Logistic support
-
 • Data Analyst Intern at Livon clinic <br>
-Business Inteligence and creating dashboards <br>
+Business Inteligence, Data Engineer and creating dashboards <br>
 Fullstack Development using Django, Vue and React
 
 ## 🌎 Idioms
